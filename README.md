@@ -1,2 +1,0 @@
-# GitProject
-Git and GitHub 
